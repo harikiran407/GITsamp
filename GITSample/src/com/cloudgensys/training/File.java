@@ -17,7 +17,7 @@ public class File {
 		}
 		}
 		catch(FileNotFoundException e)	{
-			System.out.println("File not Found ! Provide Coeerct url   ");
+			System.out.println("File not Found ! Provide Coeerct url     ");
 		}
 }
 
