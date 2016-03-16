@@ -31,7 +31,7 @@ public class Prime {
 	  }
 	  else
 	  {
-		  System.out.println("Given number is  Prime Number");
+		  System.out.println("Given number is  a Prime Number");
 	  }
 	  float total =System.nanoTime()-start ;
 		System.out.println("Total Excution time is" +total);
